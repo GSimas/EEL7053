@@ -2,6 +2,8 @@
 
 ## ***Repositório da Disciplina EEL7053 - Ondas Eletromagnéticas***
 
+> "Um pouco de Ciência nos afasta de Deus. Muito, nos aproxima" - **Louis Pasteur**
+
 **Curso**: Engenharia Eletrônica - Universidade Federal de Santa Catarina (UFSC), Florianópolis, SC, Brasil
 
 **Ementa**: Fasores; equações de Maxwell; ondas planas uniformes (OPU): propagação das OPU num meio qualquer, potência associada à OPU - o vetor de Pointing, propagação das OPU em meios sem perdas, propagação das OPU em bons condutores, reflexão de ondas, polarização de ondas; linhas de transmissão (LT): equações e parâmetros básicos, forma hiperbólica das equações de LT, reflexão e casamento de impedâncias, tipos de LT; guias de ondas e cavidades ressonantes; antenas: definição, características básicas, tipos e aplicações, conjuntos e refletores, fórmula de Friis e equação de radar.
