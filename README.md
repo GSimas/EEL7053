@@ -1,8 +1,8 @@
 # 📡EEL7053 - Ondas Eletromagnéticas
 
-## ***Repositório da Disciplina EEL7053 - Ondas Eletromagnéticas***
-
 > "Um pouco de Ciência nos afasta de Deus. Muito, nos aproxima" - **Louis Pasteur**
+
+## ***Repositório da Disciplina EEL7053 - Ondas Eletromagnéticas***
 
 **Curso**: Engenharia Eletrônica - Universidade Federal de Santa Catarina (UFSC), Florianópolis, SC, Brasil
 
